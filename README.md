@@ -1,2 +1,2 @@
 # website
- code
+This is for portfolio website.
